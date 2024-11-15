@@ -19,3 +19,15 @@ h1,h2{
     font-weight: bold;
     padding: 8px;
 }
+#save-btn{
+    background-color: green;
+    border: none;
+    border-radius: 3px;
+    color: azure;
+    font-weight: bold;
+    padding: 8px;
+    width: 100px;
+}
+#save-el{
+    color: aquamarine;
+}
