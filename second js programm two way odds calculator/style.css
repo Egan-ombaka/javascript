@@ -1,0 +1,43 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: lch(20 14 280);
+    position: relative;
+    height: 100dvh;
+}
+#twowaycalculator{
+    position: relative;
+    background-color: lch(20 14 250/ 50%);
+    border: 2px gray solid;
+    border-radius: 3px;
+    width: 30%;
+    height: 60%;
+    top: 20%;
+    left: 6%;
+}
+#first_tmodds, #second_tmodds{
+    position: relative;
+    top: 30%;
+    left: 11.5%;
+    height: 30px;
+    border-radius: 3px;
+    border: 2px gray solid;
+    background-color: rgba(60, 25, 144, 0.534);
+    color: white;
+    font-weight: bold;
+}
+#stake_2{
+    position: relative;
+    top: 35%;
+    left: 11.5%;
+    width: 80%;
+    height: 35px;
+    border-radius: 3px;
+    border: 2px gray solid;
+    background-color: rgba(60, 25, 144, 0.534);
+    color: white;
+    font-weight: bold;
+}
