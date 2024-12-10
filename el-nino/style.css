@@ -39,6 +39,7 @@ button{
     color: hsl(0, 0%, 90%);
     background: hsla(0 0% 90%/0.2);
     font-weight: 600;
+    transition: ease 0.5s;
 }
 #signin{
     left: 0%;
@@ -46,4 +47,8 @@ button{
 }
 #signup{
     border-top-left-radius: 10px;
+}
+button:hover{
+    color: black;
+    background-color: hsl(0, 0%, 90%);
 }
