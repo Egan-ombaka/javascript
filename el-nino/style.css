@@ -1,0 +1,49 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+body{
+    margin: 0;
+    padding: 0;
+    background-image: url(images/11106b12-776e-451b-9987-36159998f34b.jpeg);
+    background-position-x: 50%;
+    font-family: "Noto Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    font-variation-settings: "wdth" 100;
+}
+#userSignin{
+    text-align: center;
+}
+#welcomeTxt{
+    position: absolute;
+    top: 50%;
+    left: 33%;
+    color: hsl(0, 0%, 90%);   
+}   
+#signpara{
+    position: absolute;
+    top: 54%;
+    left: 25%;
+    width: 60%;
+    color: hsl(0, 0%, 90%);
+}
+button{
+    position: absolute;
+    bottom: 0%;
+    width: 50%;
+    height: 5%;
+    border: none;
+    color: hsl(0, 0%, 90%);
+    background: hsla(0 0% 90%/0.2);
+    font-weight: 600;
+}
+#signin{
+    left: 0%;
+    border-top-right-radius: 10px;
+}
+#signup{
+    border-top-left-radius: 10px;
+}
