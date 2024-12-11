@@ -52,3 +52,17 @@ button:hover{
     color: black;
     background-color: hsl(0, 0%, 90%);
 }
+#sign-incard{
+    position: absolute;
+    bottom: 0%;
+    height: 70%;
+    background-color: hsla(0 0% 90%/0.99);
+    width: 100%;
+    border-top-left-radius: 25px;
+    border-top-right-radius: 25px;
+}
+.welcomeTxt{
+    position: relative;
+    color: rgb(44, 44, 255);
+    top: 5%;
+}
