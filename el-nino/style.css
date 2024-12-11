@@ -66,3 +66,23 @@ button:hover{
     color: rgb(44, 44, 255);
     top: 5%;
 }
+#emailipt{
+    position: relative;
+    display: block;
+    top: 10%;
+    width: 80%;
+    left: 10%;
+    height: 7%;
+    border-radius: 8px;
+    border: 1px gray solid;
+}
+#passwordipt{
+    position: relative;
+    display: block;
+    top: 15%;
+    width: 80%;
+    left: 10%;
+    height: 7%;
+    border-radius: 8px;
+    border: 1px gray solid;
+}
